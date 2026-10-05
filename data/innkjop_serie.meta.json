@@ -1,0 +1,18 @@
+{
+  "bygget": "2026-10-05T13:47:36+00:00",
+  "kilde_fil": "innkjop_detalj.parquet",
+  "kilde_sha256": "3d9a364320e30fd1b833b8c98cb0f67dbb5d26d4d9caae97b56f5d1862d8d643",
+  "aar_fra": 2018,
+  "aar_til": 2025,
+  "maalt": [
+    "2025-06",
+    "2026-10"
+  ],
+  "rader_for_forste_aar": 665,
+  "rader_etter_siste_aar": 445,
+  "begrunnelse_forste_aar": "DIO ble tatt i bruk midt i 2017, så 2017 dekker et halvt år.",
+  "begrunnelse_siste_aar": "2026-runden er åpen og dekker bare de to automatiske ordningene.",
+  "uavklart_per_aar": {
+    "2025": 27
+  }
+}
