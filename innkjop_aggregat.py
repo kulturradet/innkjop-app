@@ -142,7 +142,8 @@ justert opp i ettertid.
 
 Serien starter i 2018. Saksbehandlingssystemet ble tatt i bruk midt i 2017, og
 det året dekker derfor bare et halvt år. Tall for tidligere år finnes i andre
-kilder og inngår ikke her.
+kilder og inngår ikke her. Fra 2025 ble et nytt saksbehandlingssystem gradvis
+innført, med fullstendig bruk fra og med 2026.
 
 Tallene er gruppert etter **type innkjøpsordning**, ikke etter innholdet i
 boka. En oversatt tegneserie er kjøpt inn gjennom ordningen for oversatt
